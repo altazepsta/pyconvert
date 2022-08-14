@@ -11,5 +11,5 @@ pip install vtf2img # From: https://github.com/julienc91/vtf2img
 ```
 
 ## Features <a name="features"></a>
-- <a href="https://developer.valvesoftware.com/wiki/Valve_Texture_Format"> VTF files</a>
+- <a href="https://developer.valvesoftware.com/wiki/Valve_Texture_Format">VTF</a> to image
 - More to come
